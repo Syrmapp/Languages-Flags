@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Afrikaans",
+    "code": "af",
+    "country": "SouthAfrica",
+    "flag": "ZA.svg"
+  },
+  {
+    "name": "Albanian",
+    "code": "sq",
+    "country": "Albania",
+    "flag": "AL.svg"
+  },
+  {
+    "name": "Amharic",
+    "code": "am",
+    "country": "Ethiopia",
+    "flag": "ET.svg"
+  },
+  {
+    "name": "Arabic",
+    "code": "ar",
+    "country": "OccupiedPalestinianTerritory",
+    "flag": "PAL.svg"
+  },
+  {
+    "name": "Armenian",
+    "code": "hy",
+    "country": "Armenia",
+    "flag": "AM.svg"
+  },
+  {
+    "name": "Azerbaijani",
+    "code": "az",
+    "country": "Azerbaijan",
+    "flag": "AZ.svg"
+  },
+  {
+    "name": "Basque",
+    "code": "eu",
+    "country": "Basque",
+    "flag": "BAS.svg"
+  },
+  {
+    "name": "Belarusian",
+    "code": "be",
+    "country": "Belarus",
+    "flag": "BY.svg"
+  },
+  {
+    "name": "Bengali",
+    "code": "bn",
+    "country": "Bangladesh",
+    "flag": "BD.svg"
+  },
+  {
+    "name": "Bosnian",
+    "code": "bs",
+    "country": "BosniaandHerzegovina",
+    "flag": "BA.svg"
+  },
+  {
+    "name": "Bulgarian",
+    "code": "bg",
+    "country": "Bulgaria",
+    "flag": "BG.svg"
+  },
+  {
+    "name": "Catalan",
+    "code": "ca",
+    "country": "Andorra",
+    "flag": "AD.svg"
+  },
+  {
+    "name": "Cebuano",
+    "code": "ceb",
+    "country": "Philippines",
+    "flag": "CEB.svg"
+  },
+  {
+    "name": "Chichewa",
+    "code": "ny",
+    "country": "Zambia",
+    "flag": "ZM.svg"
+  },
+  {
+    "name": "Chinese(Traditional)",
+    "code": "zh-TW",
+    "country": "China",
+    "flag": "CN.svg"
+  },
+  {
+    "name": "Chinese(Simplified)",
+    "code": "zh",
+    "country": "China",
+    "flag": "CNS.svg"
+  },
+  {
+    "name": "Corsican",
+    "code": "co",
+    "country": "Corsican",
+    "flag": "COR.svg"
+  },
+  {
+    "name": "Croatian",
+    "code": "hr",
+    "country": "Croatia",
+    "flag": "HR.svg"
+  },
+  {
+    "name": "Czech",
+    "code": "cs",
+    "country": "CzechRepublic",
+    "flag": "CZ.svg"
+  },
+  {
+    "name": "Danish",
+    "code": "da",
+    "country": "Denmark",
+    "flag": "DK.svg"
+  },
+  {
+    "name": "Dutch",
+    "code": "nl",
+    "country": "Netherlands",
+    "flag": "NL.svg"
+  },
+  {
+    "name": "English",
+    "code": "en",
+    "country": "UnitedStates",
+    "flag": "US.svg"
+  },
+  {
+    "name": "Esperanto",
+    "code": "eo",
+    "country": "Esperanto",
+    "flag": "ESP.svg"
+  },
+  {
+    "name": "Estonian",
+    "code": "et",
+    "country": "Estonia",
+    "flag": "EE.svg"
+  },
+  {
+    "name": "Filipino",
+    "code": "tl",
+    "country": "Philippines",
+    "flag": "PH.svg"
+  },
+  {
+    "name": "Finnish",
+    "code": "fi",
+    "country": "Finland",
+    "flag": "FI.svg"
+  },
+  {
+    "name": "French",
+    "code": "fr",
+    "country": "France",
+    "flag": "FR.svg"
+  },
+  {
+    "name": "Frisian",
+    "code": "fy",
+    "country": "friesland",
+    "flag": "FRI.svg"
+  },
+  {
+    "name": "Galician",
+    "code": "gl",
+    "country": "Galicia",
+    "flag": "GAL.svg"
+  },
+  {
+    "name": "Georgian",
+    "code": "ka",
+    "country": "Georgia",
+    "flag": "GE.svg"
+  },
+  {
+    "name": "German",
+    "code": "de",
+    "country": "Germany",
+    "flag": "DE.svg"
+  },
+  {
+    "name": "Greek",
+    "code": "el",
+    "country": "Greece",
+    "flag": "GR.svg"
+  },
+  {
+    "name": "Gujarati",
+    "code": "gu",
+    "country": "Gujarat",
+    "flag": "GUJ.svg"
+  },
+  {
+    "name": "HaitianCreole",
+    "code": "ht",
+    "country": "Haiti",
+    "flag": "HT.svg"
+  },
+  {
+    "name": "Hausa",
+    "code": "ha",
+    "country": "Hausa",
+    "flag": "HAU.svg"
+  },
+  {
+    "name": "Hawaiian",
+    "code": "haw",
+    "country": "Hawaii",
+    "flag": "HAW.svg"
+  },
+  {
+    "name": "Hebrew",
+    "code": "iw",
+    "country": "Israel",
+    "flag": "IL.svg"
+  },
+  {
+    "name": "Hindi",
+    "code": "hi",
+    "country": "India",
+    "flag": "IN.svg"
+  },
+  {
+    "name": "Hmong",
+    "code": "hmn",
+    "country": "Hmong",
+    "flag": "HMO.svg"
+  },
+  {
+    "name": "Hungarian",
+    "code": "hu",
+    "country": "Hungary",
+    "flag": "HU.svg"
+  },
+  {
+    "name": "Icelandic",
+    "code": "is",
+    "country": "Iceland",
+    "flag": "IS.svg"
+  },
+  {
+    "name": "Igbo",
+    "code": "ig",
+    "country": "RepublicofBiafra(1967\u20131970)",
+    "flag": "IGB.svg"
+  },
+  {
+    "name": "Indonesian",
+    "code": "id",
+    "country": "Indonesia",
+    "flag": "ID.svg"
+  },
+  {
+    "name": "Irish",
+    "code": "ga",
+    "country": "Ireland",
+    "flag": "IE.svg"
+  },
+  {
+    "name": "Italian",
+    "code": "it",
+    "country": "Italy",
+    "flag": "IT.svg"
+  },
+  {
+    "name": "Japanese",
+    "code": "ja",
+    "country": "Japan",
+    "flag": "JP.svg"
+  },
+  {
+    "name": "Javanese",
+    "code": "jw",
+    "country": "Indonesia",
+    "flag": "ID.svg"
+  },
+  {
+    "name": "Kannada",
+    "code": "kn",
+    "country": "Karnataka",
+    "flag": "KAR.svg"
+  },
+  {
+    "name": "Kazakh",
+    "code": "kk",
+    "country": "Kazakhstan",
+    "flag": "KZ.svg"
+  },
+  {
+    "name": "Khmer",
+    "code": "km",
+    "country": "Cambodia",
+    "flag": "KH.svg"
+  },
+  {
+    "name": "Korean",
+    "code": "ko",
+    "country": "RepublicofKorea",
+    "flag": "KR.svg"
+  },
+  {
+    "name": "Kurdish(Kurmanji)",
+    "code": "ku",
+    "country": "Kurdistan",
+    "flag": "KUR.svg"
+  },
+  {
+    "name": "Kyrgyz",
+    "code": "ky",
+    "country": "Kyrgyzstan",
+    "flag": "KG.svg"
+  },
+  {
+    "name": "Lao",
+    "code": "lo",
+    "country": "LaoPeople'sDemocraticRepublic",
+    "flag": "LA.svg"
+  },
+  {
+    "name": "Latin",
+    "code": "la",
+    "country": "HolySee(VaticanCityState)",
+    "flag": "VA.svg"
+  },
+  {
+    "name": "Latvian",
+    "code": "lv",
+    "country": "Latvia",
+    "flag": "LV.svg"
+  },
+  {
+    "name": "Lithuanian",
+    "code": "lt",
+    "country": "Lithuania",
+    "flag": "LT.svg"
+  },
+  {
+    "name": "Luxembourgish",
+    "code": "lb",
+    "country": "Luxembourg",
+    "flag": "LU.svg"
+  },
+  {
+    "name": "Macedonian",
+    "code": "mk",
+    "country": "MacedoniaTheFormerYugoslavRepublicof",
+    "flag": "MK.svg"
+  },
+  {
+    "name": "Malagasy",
+    "code": "mg",
+    "country": "Madagascar",
+    "flag": "MG.svg"
+  },
+  {
+    "name": "Malay",
+    "code": "ms",
+    "country": "Malaysia",
+    "flag": "MY.svg"
+  },
+  {
+    "name": "Malayalam",
+    "code": "ml",
+    "country": "India",
+    "flag": "IN.svg"
+  },
+  {
+    "name": "Maltese",
+    "code": "mt",
+    "country": "Malta",
+    "flag": "MT.svg"
+  },
+  {
+    "name": "Maori",
+    "code": "mi",
+    "country": "Maori",
+    "flag": "MAO.svg"
+  },
+  {
+    "name": "Marathi",
+    "code": "mr",
+    "country": "Maharashtra",
+    "flag": "MAH.svg"
+  },
+  {
+    "name": "Mongolian",
+    "code": "mn",
+    "country": "Mongolia",
+    "flag": "MN.svg"
+  },
+  {
+    "name": "Myanmar(Burmese)",
+    "code": "my",
+    "country": "Myanmar",
+    "flag": "MM.svg"
+  },
+  {
+    "name": "Nepali",
+    "code": "ne",
+    "country": "Nepal",
+    "flag": "NP.svg"
+  },
+  {
+    "name": "Norwegian",
+    "code": "no",
+    "country": "Norway",
+    "flag": "NO.svg"
+  },
+  {
+    "name": "Pashto",
+    "code": "ps",
+    "country": "Afghanistan",
+    "flag": "AF.svg"
+  },
+  {
+    "name": "Persian",
+    "code": "fa",
+    "country": "IslamicRepublicofIran",
+    "flag": "IR.svg"
+  },
+  {
+    "name": "Polish",
+    "code": "pl",
+    "country": "Poland",
+    "flag": "PL.svg"
+  },
+  {
+    "name": "Portuguese",
+    "code": "pt",
+    "country": "Portugal",
+    "flag": "PT.svg"
+  },
+  {
+    "name": "Punjabi",
+    "code": "pa",
+    "country": "Punjabi",
+    "flag": "PUN.svg"
+  },
+  {
+    "name": "Romanian",
+    "code": "ro",
+    "country": "Romania",
+    "flag": "RO.svg"
+  },
+  {
+    "name": "Russian",
+    "code": "ru",
+    "country": "RussianFederation",
+    "flag": "RU.svg"
+  },
+  {
+    "name": "Samoan",
+    "code": "sm",
+    "country": "Samoa",
+    "flag": "WS.svg"
+  },
+  {
+    "name": "ScotsGaelic",
+    "code": "gd",
+    "country": "Ireland",
+    "flag": "IE.svg"
+  },
+  {
+    "name": "Serbian",
+    "code": "sr",
+    "country": "Serbia",
+    "flag": "RS.svg"
+  },
+  {
+    "name": "Sesotho",
+    "code": "st",
+    "country": "Lesotho",
+    "flag": "LS.svg"
+  },
+  {
+    "name": "Shona",
+    "code": "sn",
+    "country": "Zimbabwe",
+    "flag": "ZW.svg"
+  },
+  {
+    "name": "Sindhi",
+    "code": "sd",
+    "country": "Sindhudesh",
+    "flag": "SIN.svg"
+  },
+  {
+    "name": "Sinhala",
+    "code": "si",
+    "country": "SriLanka",
+    "flag": "LK.svg"
+  },
+  {
+    "name": "Slovak",
+    "code": "sk",
+    "country": "Slovakia",
+    "flag": "SK.svg"
+  },
+  {
+    "name": "Slovenian",
+    "code": "sl",
+    "country": "Slovenia",
+    "flag": "SI.svg"
+  },
+  {
+    "name": "Somali",
+    "code": "so",
+    "country": "Somalia",
+    "flag": "SO.svg"
+  },
+  {
+    "name": "Spanish",
+    "code": "es",
+    "country": "Spain",
+    "flag": "ES.svg"
+  },
+  {
+    "name": "Sundanese",
+    "code": "su",
+    "country": "Indonesia",
+    "flag": "ID.svg"
+  },
+  {
+    "name": "Swahili",
+    "code": "sw",
+    "country": "UnitedRepublicofTanzania",
+    "flag": "TZ.svg"
+  },
+  {
+    "name": "Swedish",
+    "code": "sv",
+    "country": "Sweden",
+    "flag": "SE.svg"
+  },
+  {
+    "name": "Tajik",
+    "code": "tg",
+    "country": "Tajikistan",
+    "flag": "TJ.svg"
+  },
+  {
+    "name": "Tamil",
+    "code": "ta",
+    "country": "TamilEelam",
+    "flag": "TAM.svg"
+  },
+  {
+    "name": "Telugu",
+    "code": "te",
+    "country": "India",
+    "flag": "IN.svg"
+  },
+  {
+    "name": "Thai",
+    "code": "th",
+    "country": "Thailand",
+    "flag": "TH.svg"
+  },
+  {
+    "name": "Turkish",
+    "code": "tr",
+    "country": "Turkey",
+    "flag": "TR.svg"
+  },
+  {
+    "name": "Ukrainian",
+    "code": "uk",
+    "country": "Ukraine",
+    "flag": "UA.svg"
+  },
+  {
+    "name": "Urdu",
+    "code": "ur",
+    "country": "Pakistan",
+    "flag": "PK.svg"
+  },
+  {
+    "name": "Uzbek",
+    "code": "uz",
+    "country": "Uzbekistan",
+    "flag": "UZ.svg"
+  },
+  {
+    "name": "Vietnamese",
+    "code": "vi",
+    "country": "VietNam",
+    "flag": "VN.svg"
+  },
+  {
+    "name": "Welsh",
+    "code": "cy",
+    "country": "UnitedKingdom",
+    "flag": "GB.svg"
+  },
+  {
+    "name": "Xhosa",
+    "code": "xh",
+    "country": "Lesotho",
+    "flag": "LS.svg"
+  },
+  {
+    "name": "Yiddish",
+    "code": "yi",
+    "country": "Yiddish",
+    "flag": "YID.svg"
+  },
+  {
+    "name": "Yoruba",
+    "code": "yo",
+    "country": "Nigeria",
+    "flag": "NG.svg"
+  },
+  {
+    "name": "Zulu",
+    "code": "zu",
+    "country": "SouthAfrica",
+    "flag": "ZA.svg"
+  }
+]
